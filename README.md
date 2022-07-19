@@ -6,4 +6,4 @@ I chose to analyze the data of a fictional bikeshare company called Cyclistic. M
 
 The Google Data Analytics course did provide an [R script](https://docs.google.com/document/d/1TTj5KNKf4BWvEORGm10oNbpwTRk1hamsWJGj6qRWpuI/edit), which gave me guidance as I completed my analysis. However, I took many further steps as I scrutinized the data, cleaned it up, and looked for details that may have not been previously apparent.
 
-Included in this repository is my Cyclistic report, completed using R Markdown and knitted into a PDF document.
+Included in this repository is my Cyclistic report, completed using R Markdown and knitted into a PDF document. Within the report, a list of all the CSV files used for the analysis is included. The files have the same names as the files in [the AWS bucket](https://divvy-tripdata.s3.amazonaws.com/index.html), but they contain the .csv extension instead of the .zip extension.
